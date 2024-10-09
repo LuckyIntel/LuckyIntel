@@ -1,8 +1,9 @@
 <div align="center">
   <h1>LuckyIntel</h1>
-  <p>❤️ I like simplicity! ❤️</p>
-  <p>🧒 I think i still consider as a child because i am only 15 🧒</p>
-  <p>🌐 Turkey 🌐</p>
-  <p>Simple About Me : Man i think i have ADHD or something i really can't just focus on one project.</p>
-  <p>Currently trying to fix OpenGL OBJ Loader</p>
+  <h2>Devlog or something.</h2>
+  <p>Trying several things on several projects.Can't just stand with one project sadly because i have ADHD.Trying my best to update
+  most of the projects.Especially the OpenGL OBJ Loader project.I know the OpenGL OBJ Loader got updated like last 2 months ago but
+  believe me.I am really working on it.I know where the problem actually happens to be existing.I can't update daily because i got
+  school.I just update when i have free times.Programming is just a hobby of me, for now.
+  </p>
 </div>
