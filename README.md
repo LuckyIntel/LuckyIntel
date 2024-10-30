@@ -5,5 +5,7 @@
   most of the projects.Especially the OpenGL OBJ Loader project.I know the OpenGL OBJ Loader got updated like last 2 months ago but
   believe me.I am really working on it.I know where the problem actually happens to be existing.I can't update daily because i got
   school.I just update when i have free times.Programming is just a hobby of me, for now.
+  Currently Learning : Pygame
+  Libraries in interest : OpenGL, LibTorch/PyTorch, GLFW
   </p>
 </div>
