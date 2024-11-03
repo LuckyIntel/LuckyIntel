@@ -9,5 +9,7 @@
   Currently Learning : Pygame
   
   Libraries in interest : OpenGL, LibTorch/PyTorch, GLFW
+
+  Exams started so it'll take me longer than ever to update repos.
   </p>
 </div>
