@@ -12,4 +12,6 @@
 
   Exams started so it'll take me longer than ever to update repos.
   </p>
+
+  <img src="https://count.getloli.com/@LuckyIntel?theme=rule34" alt=":LuckyIntel" />
 </div>
