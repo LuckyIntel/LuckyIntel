@@ -13,5 +13,6 @@
   Exams started so it'll take me longer than ever to update repos.
   </p>
 
+  <h2>Visit Counter</h2>
   <img src="https://count.getloli.com/@LuckyIntel?theme=rule34" alt=":LuckyIntel" />
 </div>
